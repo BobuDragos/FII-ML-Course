@@ -1,3 +1,4 @@
+The difference between this branch and the main branch is that this one has my solutions + notes while the master branch is an up-to-date fork of the original.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/spantiru/companion-lab/master)
 
@@ -16,3 +17,5 @@ Useful resources:
 * [Scipy statistical functions](https://docs.scipy.org/doc/scipy/reference/stats.html)
 * [Pandas library](https://pandas.pydata.org/docs/reference/index.html) - library providing data structures and analysis tools for Python
 * [Jupyter Lab](https://jupyter.org/install) - to install Jupyter Lab locally
+
+
